@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 78ef208af4c6bc8438c431046b729177
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Brodaers
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9618eab7bf4f0a6479098d6264a0e26b, type: 3}
+  - {fileID: 12800000, guid: c54223808ebfae24c84a672a915677ad, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
